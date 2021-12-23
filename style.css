@@ -8,6 +8,9 @@ td {
   font-size: 20px;
 }
 
+tr:nth-child(even) {
+  background: #e1e1e4;
+}
 /*
 tr :nth-child(even) {
   background: rgb(67, 67, 207);
