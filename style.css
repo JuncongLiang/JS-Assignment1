@@ -8,6 +8,11 @@ td {
   font-size: 20px;
 }
 
+/*
+tr :nth-child(even) {
+  background: rgb(67, 67, 207);
+}
+*/
 .search-field {
   width: 600px;
   padding: 10px 35px 10px 10px;
